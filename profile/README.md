@@ -1,12 +1,26 @@
-## Hi there 👋
 
-<!--
+# 🐾 VetCase
 
-**Here are some ideas to get you started:**
+Bienvenue sur l'organisation GitHub de **VetCase** !
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+**VetCase** est une plateforme numérique et collaborative dédiée à l'organisation et au partage des connaissances en médecine vétérinaire.
+
+## 🎯 Notre mission
+
+Faciliter l'apprentissage, la structuration et l'accès aux connaissances vétérinaires grâce à une plateforme moderne, intuitive et collaborative.
+
+## 🩺 À qui s'adresse VetCase ?
+
+🎓 **Étudiants vétérinaires**
+Notre priorité actuelle : accompagner les étudiants dans leurs études en leur offrant un espace pour organiser, enrichir et partager leurs connaissances.
+
+👩‍⚕️ **Vétérinaires praticiens**
+Notre ambition : faire évoluer VetCase pour répondre également aux besoins des professionnels en exercice et les accompagner dans leur pratique quotidienne.
+
+## 🚀 Notre vision
+
+Construire un environnement numérique où les connaissances vétérinaires sont accessibles, structurées et évolutives, de la formation initiale jusqu'à la pratique professionnelle.
+
+---
+
+Made with ❤️ by **VetCase**
